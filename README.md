@@ -1,0 +1,2 @@
+# Scramble-String
+We can scramble a string s to get a string t using the following algorithm:
